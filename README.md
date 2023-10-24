@@ -1,5 +1,3 @@
 # total_Days_cal
-A program to calculate total number of days between any 2 given days, without importing any library.
-
-This program allows you to enter start and end date in the format (ddmmyyyy), and then prints the total number of days between them.
-The special thing about this is that no library of python was used. It's all homegrown logic.
+🚀 Super Excited! Just spent 5 intense hours coding and voila, I've successfully crafted a program that calculates the total days between any two dates! 😅
+Nope, didn't take the easy route with datetime library or any fancy tools. This is all me, putting my logical skills to the test. I've always wanted to see how far I can go, and this was the perfect opportunity! 🌟
