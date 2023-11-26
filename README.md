@@ -15,9 +15,6 @@ To use the Date Calculator:
 1. Open the [date_calculator.py](date_calculator.py) file.
 2. Modify the `dob` and `tod` variables with your desired dates in the format `DDMMYYYY`.
 3. Run the script.
-   
-   ```bash
-   python date_calculator.py
 
  ```python
    # Example Input
