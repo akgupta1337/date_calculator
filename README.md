@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the **Date Calculator** repository! This simple Python script allows you to calculate the total number of days between two given dates without importing any external libraries.
+Welcome to the **Date Calculator** repository! This simple Python script (`date_calculator.py`) allows you to calculate the total number of days between two given dates without importing any external libraries.
 
 ## How It Works
 
