@@ -16,10 +16,10 @@ To use the Date Calculator:
 2. Modify the `dob` and `tod` variables with your desired dates in the format `DDMMYYYY`.
 3. Run the script.
    
-```bash
-python date_calculator.py
+   ```bash
+   python date_calculator.py
 
-   ```python
+ ```python
    # Example Input
    dob = "15031990"  # March 15, 1990
    tod = "01122022"  # December 1, 2022
